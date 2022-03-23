@@ -61,12 +61,12 @@
             <Font size="20.0" />
          </font>
       </Text>
-      <Text fx:id="AB" layoutX="228.0" layoutY="587.0" strokeType="OUTSIDE" strokeWidth="0.0" text="24">
+      <Text fx:id="AB" layoutX="228.0" layoutY="587.0" strokeType="OUTSIDE" strokeWidth="0.0" text="18">
          <font>
             <Font size="20.0" />
          </font>
       </Text>
-      <Text fx:id="CF" layoutX="247.0" layoutY="354.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5">
+      <Text fx:id="CF" layoutX="247.0" layoutY="354.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4">
          <font>
             <Font size="20.0" />
          </font>
@@ -76,7 +76,7 @@
             <Font size="20.0" />
          </font>
       </Text>
-      <Text fx:id="GH" layoutX="211.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="10">
+      <Text fx:id="GH" layoutX="211.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="13">
          <font>
             <Font size="20.0" />
          </font>
@@ -91,7 +91,7 @@
             <Font size="20.0" />
          </font>
       </Text>
-      <Text fx:id="JE" layoutX="433.0" layoutY="358.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5">
+      <Text fx:id="JE" layoutX="433.0" layoutY="358.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6">
          <font>
             <Font size="20.0" />
          </font>
