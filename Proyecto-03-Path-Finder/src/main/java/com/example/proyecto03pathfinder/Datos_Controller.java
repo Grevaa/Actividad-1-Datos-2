@@ -89,7 +89,11 @@ public class Datos_Controller implements Initializable {
         SimpleStringProperty intPlace;
         SimpleStringProperty foodPlace;
         SimpleStringProperty gasPlace;
+        SimpleStringProperty parkPlace;
 
+        public String getparkPlace(){
+            return parkPlace.get();
+        }
         public String getName() {
             return name.get();
         }
@@ -113,12 +117,13 @@ public class Datos_Controller implements Initializable {
         }
 
 
-        public Std(String name, String people, String intPlace, String foodPlace, String gasPlace){
+        public Std(String name, String people, String intPlace, String foodPlace, String gasPlace, String parkPlace){
             this.name = new SimpleStringProperty(name);
             this.people = new SimpleStringProperty(people);
             this.intPlace = new SimpleStringProperty(intPlace);
             this.foodPlace = new SimpleStringProperty(foodPlace);
             this.gasPlace = new SimpleStringProperty(gasPlace);
+            this.parkPlace = new SimpleStringProperty(parkPlace);
         }
 
 }
